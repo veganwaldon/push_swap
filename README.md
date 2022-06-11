@@ -13,4 +13,4 @@ the lowest possible number of actions
 ```
 
 ### Examples of use
-![hello] (./example.jpg)
+![] (example.jpg)
