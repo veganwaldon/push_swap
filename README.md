@@ -13,4 +13,4 @@ the lowest possible number of actions
 ```
 
 ### Examples of use
-![Alt + example] (/example.jpg)
+![Alt-example](push_swap/example.jpg "example")
