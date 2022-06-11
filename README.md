@@ -13,4 +13,4 @@ the lowest possible number of actions
 ```
 
 ### Examples of use
-![–example](veganwaldon/push_swap/example.jpg "example")
+![example](https://github.com/veganwaldon/push_swap/blob/main/example.jpg)
