@@ -1,6 +1,7 @@
 ## Push_swap (sorting algorithm)
-sort data on a stack, with a limited set of instructions, using
-the lowest possible number of actions
+To sort data on a stack, with a limited set of instructions, using
+the lowest possible number of actions.  
+Subject [here](https://github.com/veganwaldon/push_swap/blob/main/push_swap.pdf).
 
 ### Project goals
 - choose the most appropriate solution for an optimized data sorting
